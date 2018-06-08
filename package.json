@@ -18,5 +18,9 @@
   "bugs": {
     "url": "https://github.com/lnstock/yqf-im/issues"
   },
-  "homepage": "https://github.com/lnstock/yqf-im#readme"
+  "homepage": "https://github.com/lnstock/yqf-im#readme",
+  "dependencies": {
+    "react": "^16.4.0",
+    "react-dom": "^16.4.0"
+  }
 }
